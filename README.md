@@ -1,9 +1,9 @@
-### Miarahaba tompoko ...! 🙏🙏🙏
-  I wish the wisdom ... !
+### Hello !
+  I wish the wisdom...
   
-  Passion and dreams are like time, nothing can't stop them ...!
+  Passion and dreams are like time, nothing can't stop them...
   
-  I'm a passionate developer ...!
+  I'm a passionate developer
 <!--
 **lahatra3/lahatra3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
